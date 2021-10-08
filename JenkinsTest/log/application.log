@@ -32,3 +32,37 @@
 2021-10-08 15:21:42,842 [main] INFO Pion Global - Click on checkbox
 2021-10-08 15:21:45,022 [main] INFO Pion Global - Click on Send Button
 2021-10-08 15:21:45,268 [main] INFO Pion Global - Driver closed
+2021-10-08 19:03:34,363 [main] INFO Pion Global - Launching chrome browser
+2021-10-08 19:03:40,393 [main] INFO Pion Global - Opening URL
+2021-10-08 19:03:41,803 [main] INFO Pion Global - Click on PRODUCTS
+2021-10-08 19:03:43,298 [main] INFO Pion Global - Click on SERVICES
+2021-10-08 19:03:44,504 [main] INFO Pion Global - Click on CAREERS
+2021-10-08 19:03:46,222 [main] INFO Pion Global - Enter full name
+2021-10-08 19:03:47,803 [main] INFO Pion Global - Enter email
+2021-10-08 19:03:48,997 [main] INFO Pion Global - Enter phone number 
+2021-10-08 19:03:50,217 [main] INFO Pion Global - Enter organisation
+2021-10-08 19:03:51,588 [main] INFO Pion Global - Enter designation  
+2021-10-08 19:03:52,803 [main] INFO Pion Global - Enter domain 
+2021-10-08 19:03:54,017 [main] INFO Pion Global - Enter departments 
+2021-10-08 19:03:55,227 [main] INFO Pion Global - Enter subject 
+2021-10-08 19:03:56,480 [main] INFO Pion Global - Enter message 
+2021-10-08 19:03:57,826 [main] INFO Pion Global - Click on checkbox
+2021-10-08 19:03:59,942 [main] INFO Pion Global - Click on Send 
+2021-10-08 19:04:04,222 [main] INFO Pion Global - Driver closed
+2021-10-08 19:11:03,091 [main] INFO Pion Global - Launching chrome browser
+2021-10-08 19:11:07,314 [main] INFO Pion Global - Opening URL
+2021-10-08 19:11:08,607 [main] INFO Pion Global - Click on PRODUCTS
+2021-10-08 19:11:09,938 [main] INFO Pion Global - Click on SERVICES
+2021-10-08 19:11:11,128 [main] INFO Pion Global - Click on CAREERS
+2021-10-08 19:11:14,403 [main] INFO Pion Global - Enter full name
+2021-10-08 19:11:15,686 [main] INFO Pion Global - Enter email
+2021-10-08 19:11:16,912 [main] INFO Pion Global - Enter phone number 
+2021-10-08 19:11:18,115 [main] INFO Pion Global - Enter organisation
+2021-10-08 19:11:19,768 [main] INFO Pion Global - Enter designation  
+2021-10-08 19:11:20,977 [main] INFO Pion Global - Enter domain 
+2021-10-08 19:11:22,179 [main] INFO Pion Global - Enter departments 
+2021-10-08 19:11:23,361 [main] INFO Pion Global - Enter subject 
+2021-10-08 19:11:24,651 [main] INFO Pion Global - Enter message 
+2021-10-08 19:11:26,571 [main] INFO Pion Global - Click on checkbox
+2021-10-08 19:11:28,681 [main] INFO Pion Global - Click on Send 
+2021-10-08 19:11:29,715 [main] INFO Pion Global - Driver closed
