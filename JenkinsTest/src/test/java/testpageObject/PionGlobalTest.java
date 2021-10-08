@@ -23,6 +23,7 @@ public class PionGlobalTest {
     	logger= Logger.getLogger("Pion Global"); // Added logger
   		PropertyConfigurator.configure("log4j.properties");
   		
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\91782\\git\\JenkinsTest\\JenkinsTest\\chromedriver.exe");
 		 driver = new ChromeDriver();
 		 logger.info("Launching chrome browser");
 		 
