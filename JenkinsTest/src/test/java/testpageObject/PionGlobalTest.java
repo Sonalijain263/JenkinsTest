@@ -101,6 +101,8 @@ public class PionGlobalTest {
          send.click();
          logger.info("Click on Send button ");
          
+         System.out.println("3rd change");
+         
 	}
 	 
       @AfterMethod
