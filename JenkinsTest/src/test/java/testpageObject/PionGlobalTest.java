@@ -99,7 +99,7 @@ public class PionGlobalTest {
         Thread.sleep(2000);
          WebElement send= driver.findElement(By.xpath("//button[text()='Send']"));
          send.click();
-         logger.info("Click on Send ");
+         logger.info("Click on Send button ");
          
 	}
 	 
