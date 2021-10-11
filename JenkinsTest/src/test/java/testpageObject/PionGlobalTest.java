@@ -25,7 +25,7 @@ public class PionGlobalTest {
   		PropertyConfigurator.configure("log4j.properties");
   		
 		WebDriverManager.chromedriver().setup();
-		System.serProperty("webdriver.chrome.driver","chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","chromedriver.exe");
 		 driver = new ChromeDriver();
 		 logger.info("Launching chrome browser");
 		 
