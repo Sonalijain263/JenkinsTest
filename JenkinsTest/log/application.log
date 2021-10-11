@@ -66,3 +66,5 @@
 2021-10-08 19:11:26,571 [main] INFO Pion Global - Click on checkbox
 2021-10-08 19:11:28,681 [main] INFO Pion Global - Click on Send 
 2021-10-08 19:11:29,715 [main] INFO Pion Global - Driver closed
+2021-10-11 16:16:24,736 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+2021-10-11 16:16:24,796 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\91782\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
