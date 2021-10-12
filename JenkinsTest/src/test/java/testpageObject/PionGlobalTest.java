@@ -25,11 +25,11 @@ public class PionGlobalTest {
     	logger= Logger.getLogger("Pion Global"); // Added logger
   		PropertyConfigurator.configure("log4j.properties");
   		
-		WebDriverManager.chromedriver().setup();
+	//	WebDriverManager.chromedriver().setup();
 		System.setProperty("webdriver.chrome.driver","/usr/bin/google-chrome");
-		ChromeOptions options = new ChromeOptions();
-		options.addArguments("headless");
-		driver = new ChromeDriver(options);
+	//	ChromeOptions options = new ChromeOptions();
+	//	options.addArguments("headless");
+		driver = new ChromeDriver();
 		 logger.info("Launching chrome browser");
 		 
          driver.get("https://www.pionglobal.com/");
