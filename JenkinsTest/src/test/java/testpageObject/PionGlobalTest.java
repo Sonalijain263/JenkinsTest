@@ -27,9 +27,8 @@ public class PionGlobalTest {
   		
 		WebDriverManager.chromedriver().setup();
 		System.setProperty("webdriver.chrome.driver","E:\\chromedriver_win32\\chromedriver.exe");
-		ChromeOptions options = new ChromeOptions();
-	 	options.addArguments("headless");
-		driver = new ChromeDriver(options);
+		
+		driver = new ChromeDriver();
 		 logger.info("Launching chrome browser");
 		 
          driver.get("https://www.pionglobal.com/");
