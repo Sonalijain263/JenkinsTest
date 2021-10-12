@@ -9,6 +9,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.*;
@@ -25,7 +26,7 @@ public class PionGlobalTest {
   		PropertyConfigurator.configure("log4j.properties");
   		
 		WebDriverManager.chromedriver().setup();
-		System.setProperty("webdriver.chrome.driver","E:\\chromedriver_win32\\chromedriver.exe");
+	//	System.setProperty("webdriver.chrome.driver","E:\\chromedriver_win32\\chromedriver.exe");
 		 driver = new ChromeDriver();
 		 logger.info("Launching chrome browser");
 		 
@@ -100,9 +101,7 @@ public class PionGlobalTest {
          WebElement send= driver.findElement(By.xpath("//button[text()='Send']"));
          send.click();
          logger.info("Click on Send button ");
-         
-         System.out.println("4rd change");
-         
+            
 	}
 	 
       @AfterMethod

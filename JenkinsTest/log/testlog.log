@@ -68,3 +68,58 @@
 2021-10-08 19:11:29,715 - Pion Global -INFO - Driver closed
 2021-10-11 16:16:24,736 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
 2021-10-11 16:16:24,796 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91782\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+2021-10-11 16:36:33,130 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+2021-10-11 16:36:33,276 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91782\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+2021-10-11 16:36:43,608 - Pion Global -INFO - Launching chrome browser
+2021-10-11 16:36:50,620 - Pion Global -INFO - Opening URL
+2021-10-11 16:37:11,110 - Pion Global -INFO - Driver closed
+2021-10-11 16:37:36,588 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+2021-10-11 16:37:36,641 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91782\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+2021-10-11 16:37:40,267 - Pion Global -INFO - Launching chrome browser
+2021-10-11 16:37:43,934 - Pion Global -INFO - Opening URL
+2021-10-11 16:38:04,685 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+2021-10-11 16:38:04,747 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91782\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+2021-10-11 16:38:14,594 - Pion Global -INFO - Launching chrome browser
+2021-10-11 16:38:20,368 - Pion Global -INFO - Opening URL
+2021-10-11 16:38:21,178 - Pion Global -INFO - Click on PRODUCTS
+2021-10-11 16:38:22,761 - Pion Global -INFO - Click on SERVICES
+2021-10-11 18:35:27,424 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+2021-10-11 18:35:27,815 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91782\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+2021-10-11 18:39:49,345 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+2021-10-11 18:39:49,404 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91782\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+2021-10-11 18:40:17,554 - Pion Global -INFO - Launching chrome browser
+2021-10-11 18:40:23,466 - Pion Global -INFO - Opening URL
+2021-10-11 18:40:24,972 - Pion Global -INFO - Click on PRODUCTS
+2021-10-11 18:40:26,691 - Pion Global -INFO - Click on SERVICES
+2021-10-11 18:40:27,902 - Pion Global -INFO - Click on CAREERS
+2021-10-11 18:40:29,486 - Pion Global -INFO - Enter full name
+2021-10-11 18:40:30,776 - Pion Global -INFO - Enter email
+2021-10-11 18:40:31,979 - Pion Global -INFO - Enter phone number 
+2021-10-11 18:40:33,184 - Pion Global -INFO - Enter organisation
+2021-10-11 18:40:34,493 - Pion Global -INFO - Enter designation  
+2021-10-11 18:40:35,717 - Pion Global -INFO - Enter domain 
+2021-10-11 18:40:36,899 - Pion Global -INFO - Enter departments 
+2021-10-11 18:40:38,131 - Pion Global -INFO - Enter subject 
+2021-10-11 18:40:39,347 - Pion Global -INFO - Enter message 
+2021-10-11 18:40:41,341 - Pion Global -INFO - Click on checkbox
+2021-10-11 18:40:43,482 - Pion Global -INFO - Click on Send button 
+2021-10-11 18:40:43,803 - Pion Global -INFO - Driver closed
+2021-10-12 10:06:37,511 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+2021-10-12 10:06:37,711 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91782\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+2021-10-12 10:07:09,793 - Pion Global -INFO - Launching chrome browser
+2021-10-12 10:07:15,353 - Pion Global -INFO - Opening URL
+2021-10-12 10:07:17,744 - Pion Global -INFO - Click on PRODUCTS
+2021-10-12 10:07:18,912 - Pion Global -INFO - Click on SERVICES
+2021-10-12 10:07:20,138 - Pion Global -INFO - Click on CAREERS
+2021-10-12 10:07:22,210 - Pion Global -INFO - Enter full name
+2021-10-12 10:07:23,508 - Pion Global -INFO - Enter email
+2021-10-12 10:07:24,747 - Pion Global -INFO - Enter phone number 
+2021-10-12 10:07:25,977 - Pion Global -INFO - Enter organisation
+2021-10-12 10:07:27,832 - Pion Global -INFO - Enter designation  
+2021-10-12 10:07:29,030 - Pion Global -INFO - Enter domain 
+2021-10-12 10:07:30,271 - Pion Global -INFO - Enter departments 
+2021-10-12 10:07:31,532 - Pion Global -INFO - Enter subject 
+2021-10-12 10:07:32,743 - Pion Global -INFO - Enter message 
+2021-10-12 10:07:34,108 - Pion Global -INFO - Click on checkbox
+2021-10-12 10:07:36,219 - Pion Global -INFO - Click on Send button 
+2021-10-12 10:07:37,468 - Pion Global -INFO - Driver closed
