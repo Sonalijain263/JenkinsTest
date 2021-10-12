@@ -27,7 +27,7 @@ public class PionGlobalTest {
   		
 		WebDriverManager.chromedriver().setup();
 //		System.setProperty("webdriver.chrome.driver","JenkinsTest/chromedriver.exe");
-//		driver = new ChromeDriver();
+		driver = new ChromeDriver();
 		 logger.info("Launching chrome browser");
 		 
          driver.get("https://www.pionglobal.com/");
